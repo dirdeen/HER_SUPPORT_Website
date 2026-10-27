@@ -182,8 +182,16 @@ p {
   margin: 0 auto 30px;
 }
 .section-heading p {
-  max-width: 530px;
-  margin-inline: auto;
+    max-width: 530px;
+    margin-inline: auto;
+    color: #FFFFFF;
+    text-shadow: 1px 2px 4px rgba(75, 24, 57, 0.90);
+}
+
+.section-heading h2 {
+    color: #FFFFFF;
+    -webkit-text-stroke: 0;
+    text-shadow: 2px 3px 5px rgba(75, 24, 57, 0.85);
 }
 .cards {
   display: grid;
