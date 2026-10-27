@@ -823,3 +823,9 @@ textarea {
         padding: 20px;
     }
 }
+
+body.home-page .hero h1 {
+    color: #FFFFFF;
+    -webkit-text-stroke: 0;
+    text-shadow: 2px 3px 6px #4B1839;
+}
